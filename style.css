@@ -1,0 +1,16 @@
+@media (min-width: 992px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
+
+/*About ssectioon*/
+.about{
+    background-color: beige;
+}
+
+/* Styling for footer*/
+
+.footer-container{
+    font-size: large;
+    font-weight: bold;
+    color: white;
+}
